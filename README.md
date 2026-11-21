@@ -67,8 +67,8 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         <td align="center">
-                <a href="https://alisolanki.com/">
-                    <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
+                <a href="https://github.com/mfaizhussain">
+                    <img src="https://avatars.githubusercontent.com/u/125539520?v=4" width="100px;"
                         alt="Faiz Hussain" />
                     <br />
                     <sub>
